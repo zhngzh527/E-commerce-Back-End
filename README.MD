@@ -13,3 +13,4 @@ This is the back end for an e-commerce site, and we can use Express.js and Seque
  npm start to start the server and test API routes in Insomnia Core.
 
  ## Walkthrough Video URL
+https://drive.google.com/file/d/1h3PIH42tLyFjwGAPsqIunwkMWf-cRUgG/view
